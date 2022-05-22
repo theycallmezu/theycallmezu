@@ -3,14 +3,11 @@
 
 :computer: I'm a freelancer that uses UX/UI Design and Web Development to create Brand Identities and eCommerce Websites.
 
----
+# 📫 How to reach me
 
-### 📫 How to reach me
-- Phone: 972-795-3020
-- email: zu@abyss.studio
-- website: www.abyss.studio
-
----
+- __Phone:__ 972-795-3020
+- __Email:__ zu@abyss.studio
+- __Website:__ www.abyss.studio
 
 
 <!---
