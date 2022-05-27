@@ -3,6 +3,8 @@
 
 :computer: I'm a freelancer that uses UX/UI Design and Web Development to create Brand Identities and eCommerce Websites.
 
+I'm currently looking for a full-time remote job.
+
 # 📫 How to reach me
 
 - __Phone:__ 972-795-3020
