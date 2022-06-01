@@ -3,7 +3,7 @@
 
 :computer: I'm a freelancer that uses UX/UI Design and Web Development to create Brand Identities and eCommerce Websites.
 
-I'm currently looking for a full-time remote work.
+I'm currently looking for full-time remote work.
 
 # 📫 How to reach me
 
